@@ -1,0 +1,7 @@
+# @typescript-eslint/parser seems to give false positives with svg files.
+**/*.svg
+# create-react-app's boilerplate files.
+src/serviceWorker.ts
+src/setupTests.ts
+
+.eslintrc.js
